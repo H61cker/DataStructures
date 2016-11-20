@@ -1,6 +1,6 @@
 [Project]
-FileName=Tree2.dev
-Name=Tree2
+FileName=BinaryTree2.dev
+Name=BinaryTree2
 Type=1
 Ver=2
 ObjFiles=
@@ -29,7 +29,6 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=3
 CompilerSettings=0000000100000000000000000
-UnitCount=3
 
 [VersionInfo]
 Major=1
@@ -49,34 +48,4 @@ ProductName=
 ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
-
-[Unit1]
-FileName=BinaryTree.h
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit2]
-FileName=BinaryTree.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit3]
-FileName=BinaryTreeMain.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
 
